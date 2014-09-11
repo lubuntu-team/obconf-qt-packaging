@@ -1,4 +1,4 @@
-Source: obconf
+Source: obconf-qt
 Section: utils
 Priority: optional
 Maintainer: Alf Gaida <agaida@siduction.org>
