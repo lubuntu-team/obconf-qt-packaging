@@ -1,14 +1,5 @@
-obconf-qt (0.1.0-2) unstable; urgency=medium
-
-  * drop debug package
-  * Min Qt version 5.3.2
-  * bump standards to 3.9.6
-  * lintian-override for missing manpage added
-
- -- Alf Gaida <agaida@siduction.org>  Sun, 19 Oct 2014 21:22:05 +0200
-
-obconf-qt (0.1.0-1) unstable; urgency=low
+obconf-qt (0.2.0-1) experimental; urgency=low
 
   * Initial release (Closes: #761263) 
 
- -- Alf Gaida <agaida@siduction.org>  Mon, 24 Feb 2014 23:41:30 +0100
+ -- Alf Gaida <agaida@siduction.org>  Sun, 15 Feb 2015 19:30:56 +0100
