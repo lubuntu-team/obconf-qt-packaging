@@ -1,0 +1,7 @@
+/*.debhelper
+/*.log
+/*.substvars
+/files
+
+/obconf-qt/
+/obconf-qt5/
