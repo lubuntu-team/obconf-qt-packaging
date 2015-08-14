@@ -4,7 +4,7 @@ Source: https://github.com/lxde/obconf-qt
 
 Files: *
 Copyright: 2012-2015 LXQt team
-License: GPL-2.0+ and LGPL-2.1+
+License: GPL-2.0+
 
 Files: debian/*
 Copyright: 2013-2015 Alf Gaida <agaida@siduction.org>
