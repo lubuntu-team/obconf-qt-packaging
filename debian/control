@@ -9,9 +9,9 @@ Uploaders:
 Build-Depends:
  cmake (>= 3.0.2),
  debhelper (>= 9),
+ libqt5x11extras5-dev (>= 5.3),
  openbox-dev,
  pkg-config,
- libqt5x11extras5-dev (>= 5.3),
  qttools5-dev (>= 5.3),
  qttools5-dev-tools (>= 5.3),
 Standards-Version: 3.9.6
