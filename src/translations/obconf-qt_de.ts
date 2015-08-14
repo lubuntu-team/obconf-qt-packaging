@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ru">
+<TS version="2.1">
 <context>
     <name>Fm::FontButton</name>
     <message>
         <location filename="../fontbutton.cpp" line="46"/>
         <source>Bold</source>
-        <translation>Жирный</translation>
+        <translation>Fett</translation>
     </message>
     <message>
         <location filename="../fontbutton.cpp" line="50"/>
         <source>Italic</source>
-        <translation>Курсив</translation>
+        <translation>Kursiv</translation>
     </message>
 </context>
 <context>
@@ -19,83 +19,83 @@
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1012"/>
         <source>Window Manager Preferences</source>
-        <translation>Настройки менеджера окон</translation>
+        <translation>Fenstermanager Openbox :: Einstellungen</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1017"/>
         <source>Theme</source>
-        <translation>Тема</translation>
+        <translation>Thema</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1019"/>
         <source>Appearance</source>
-        <translation>Внешний вид</translation>
+        <translation>Erscheinungsbild</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1021"/>
         <source>Font</source>
-        <translation>Шрифт</translation>
+        <translation>Schrift</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1023"/>
         <location filename="../../build/src/ui_obconf.h" line="1038"/>
         <source>Windows</source>
-        <translation>Окна</translation>
+        <translation>Fenster</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1025"/>
         <source>Move &amp; Resize</source>
-        <translation>Перемещение и изменение размера</translation>
+        <translation>Verschieben und Größe ändern</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1027"/>
         <source>Mouse</source>
-        <translation>Мышь</translation>
+        <translation>Maus</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1029"/>
         <source>Desktops</source>
-        <translation>Рабочие столы</translation>
+        <translation>Arbeitsflächen</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1031"/>
         <source>Margins</source>
-        <translation>Границы</translation>
+        <translation>Ränder</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1033"/>
         <source>Dock</source>
-        <translation>Док</translation>
+        <translation>Dock</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1036"/>
         <source>&amp;Install a new theme...</source>
-        <translation>&amp;Установить новую тему...</translation>
+        <translation>Neues Thema &amp;installieren...</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1037"/>
         <source>Create a theme &amp;archive (.obt)...</source>
-        <translation>Создать &amp;архив с темой (.obt)...</translation>
+        <translation>Themenarchiv &amp;erstellen (.obt)...</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1039"/>
         <source>&amp;Windows retain a border when undecorated</source>
-        <translation>&amp;Окна без декораций сохраняют края</translation>
+        <translation>Undekorierte Fenster um&amp;randen</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1040"/>
         <source>A&amp;nimate iconify and restore</source>
-        <translation>А&amp;нимировать сворачивание и восстановление окна</translation>
+        <translation>Minimieren und Wiederherstellen &amp;animieren</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1041"/>
         <source>Window Titles</source>
-        <translation>Заголовки окна</translation>
+        <translation>Fenstertitel</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1042"/>
         <source>Button order:</source>
-        <translation>Порядок кнопок:</translation>
+        <translation>Anordnung der Schaltflächen (Knöpfe):</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1043"/>
@@ -106,324 +106,324 @@ M: Maximize
 C: Close
 S: Shade (Roll up)
 D: Omnipresent (On all desktops)</source>
-        <translation>N: Значок окна
-L: Заголовок окна
-I: Свернуть
-M: Распахнуть
-C: Закрыть
-S: Свернуть в заголовок окна
-D: На все рабочие столы</translation>
+        <translation>N: Fenstersymbol
+L: Fenstertitel
+I: Minimieren
+M: Maximieren
+C: Schließen
+S: Einrollen
+D: auf allen Arbeitsflächen</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1056"/>
         <source>&amp;Active window title: </source>
-        <translation>Название &amp;активного окна: </translation>
+        <translation>Fenstertitel &amp;aktives Fenster</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1057"/>
         <source>&amp;Inactive window title: </source>
-        <translation>Название &amp;неактивного окна: </translation>
+        <translation>Fenstertitel &amp;inaktives Fenster</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1058"/>
         <source>Menu &amp;header: </source>
-        <translation>&amp;Заголовок меню: </translation>
+        <translation>Menü - &amp;Überschrift</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1059"/>
         <source>&amp;Menu Item: </source>
-        <translation>Пункт &amp;меню: </translation>
+        <translation>Menü - einzelne &amp;Einträge</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1060"/>
         <source>Active &amp;On-screen display: </source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;ktive Bildschirmanzeige</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1061"/>
         <source>Inactive O&amp;n-screen display: </source>
-        <translation type="unfinished"></translation>
+        <translation>I&amp;naktive Bildschirmanzeige</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1062"/>
         <source>Focus &amp;new windows when they appear</source>
-        <translation>Передавать фокус &amp;новым окнам при их возникновении</translation>
+        <translation>&amp;Neue Fenster beim Erscheinen fokussieren</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1063"/>
         <source>&amp;Place new windows under the mouse pointer</source>
-        <translation>&amp;Помещать новые окна под курсором мыши</translation>
+        <translation>Neue Fenster unter dem Mauszeiger &amp;platzieren</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1064"/>
         <source>&amp;Center new windows when they are placed</source>
-        <translation type="unfinished"></translation>
+        <translation>Neue Fenster &amp;zentrieren</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1065"/>
         <source>Prefer to place new windows &amp;on:</source>
-        <translation>Предпочитать размещать новое окно &amp;на:</translation>
+        <translation>Neue Fenster &amp;vorzugsweise platzieren auf</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1068"/>
         <source>All monitors</source>
-        <translation>Всех мониторах</translation>
+        <translation>allen Bildschirmen</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1069"/>
         <source>The active monitor</source>
-        <translation>Активном мониторе</translation>
+        <translation>dem aktiven Bildschirm</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1070"/>
         <source>The monitor with the mouse</source>
-        <translation>Мониторе с мышью</translation>
+        <translation>dem Bildschirm, wo sich der Mauszeiger befindet</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1071"/>
         <source>Primary monitor</source>
-        <translation>Основном мониторе</translation>
+        <translation>dem primären Bildschirm</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1073"/>
         <source>Primary Monitor</source>
-        <translation>Основной монитор</translation>
+        <translation>Primärer Bildschirm</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1074"/>
         <source>The primary monitor is where Openbox will place dialogs, such as the one used for cycling windows.</source>
-        <translation>Основной монитор - это область, где Openbox будет размещать диалоги, такие как переключение окон.</translation>
+        <translation>Der primäre Bildschirm ist derjenige, auf dem Dialoge wie der zum Wechsel von Fenstern angezeigt werden.</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1075"/>
         <source>Primary &amp;monitor:</source>
-        <translation>Основной &amp;монитор:</translation>
+        <translation>P&amp;rimärer Bildschirm</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1078"/>
         <source>Fixed Monitor</source>
-        <translation>Фиксированный монитор</translation>
+        <translation>Festgelegter Bildschirm</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1079"/>
         <source>Active Monitor</source>
-        <translation>Активный монитор</translation>
+        <translation>aktiver Bildschirm</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1080"/>
         <source>Monitor With Mouse Pointer</source>
-        <translation>Монитор с курсором мыши</translation>
+        <translation>Bildschirm, wo sich der Mauszeiger befindet</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1082"/>
         <source>&amp;Fixed monitor:</source>
-        <translation>&amp;Фиксированный монитор:</translation>
+        <translation>&amp;Festgelegter Bildschirm</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1083"/>
         <source>Moving and Resizing Windows</source>
-        <translation>Перемещение и изменение размеров окон</translation>
+        <translation>Verschieben und Größenänderung von Fenstern</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1084"/>
         <source>Update the window contents while &amp;resizing</source>
-        <translation>Обновлять содержимое окна во &amp;время изменения размера</translation>
+        <translation>Fensterinhalt während &amp;Größenänderungen anzeigen</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1085"/>
         <source>Drag &amp;threshold distance:</source>
-        <translation>&amp;Порог расстояния перетаскивания:</translation>
+        <translation>Abstand beim &amp;Verschieben</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1086"/>
         <source>Amount of resistance against other &amp;windows:</source>
-        <translation>Количество сопротивления к другим &amp;окнам:</translation>
+        <translation>Widerstand gegenüber anderen &amp;Fenstern</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1087"/>
         <source>Amount of resistance against screen &amp;edges:</source>
-        <translation>Количество сопротивления к &amp;краям экрана:</translation>
+        <translation>Widerstand gegenüber &amp;Bildschirmrändern</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1088"/>
         <source>&amp;Amount of time to wait before switching:</source>
-        <translation>&amp;Время ожидания перед переключением:</translation>
+        <translation>Ver&amp;zögerung vor dem Arbeitsflächenwechsel</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1089"/>
         <source>&amp;Switch desktops when moving a window past the screen edge</source>
-        <translation>&amp;Переключать рабочие столы при перемещенииокна за границы экрана</translation>
+        <translation>Arbeitsfläche beim Verschieben des Fensters über ihren Rand &amp;wechseln</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1090"/>
         <source>Information Dialog</source>
-        <translation>Информагионный диалог</translation>
+        <translation>Informationsdialog</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1093"/>
         <location filename="../../build/src/ui_obconf.h" line="1100"/>
         <source>Centered</source>
-        <translation>По центру</translation>
+        <translation>Fenstermitte</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1094"/>
         <source>From left edge</source>
-        <translation>От левого края</translation>
+        <translation>Vom linken Rand</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1095"/>
         <source>From right edge</source>
-        <translation>От правого края</translation>
+        <translation>Vom rechten Rand</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1097"/>
         <source>Fixed &amp;y position:</source>
-        <translation>Фиксированное по &amp;y:</translation>
+        <translation>Festgelegte &amp;y-Position (Pixel)</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1101"/>
         <source>From top edge</source>
-        <translation>Отверхеней границы</translation>
+        <translation>Vom oberen Rand</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1102"/>
         <source>From bottom edge</source>
-        <translation>От нижней границы</translation>
+        <translation>Vom unteren Rand</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1104"/>
         <source>Information dialog&apos;s &amp;position:</source>
-        <translation>&amp;Расположение информационного диалога:</translation>
+        <translation>&amp;Position des Informationsdialogs</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1105"/>
         <source>Fixed &amp;x position:</source>
-        <translation>Фиксированное по &amp;x:</translation>
+        <translation>Festgelegte &amp;x-Position (Pixel)</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1106"/>
         <source>Show &amp;information dialog:</source>
-        <translation>Показывать &amp;информационный диалог:</translation>
+        <translation>&amp;Informationsdialog anzeigen:</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1109"/>
         <source>When resizing terminal windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Bei Größenänderung von Terminalfenstern</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1110"/>
         <source>Always</source>
-        <translation>Всегда</translation>
+        <translation>Immer</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1111"/>
         <source>Never</source>
-        <translation>Никогда</translation>
+        <translation>Nie</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1115"/>
         <source>Centered on the window</source>
-        <translation>По центру окна</translation>
+        <translation>Fenstermitte</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1116"/>
         <source>Above the window</source>
-        <translation>Сверху окна</translation>
+        <translation>Oberhalb des Fensters</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1117"/>
         <source>Fixed position on screen</source>
-        <translation>Фиксированное место на экране</translation>
+        <translation>Feste Position auf dem Bildschirm</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1119"/>
         <source>Focusing Windows</source>
-        <translation>Передача фокуса окнам</translation>
+        <translation>Fokussieren von Fenstern</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1120"/>
         <source>Focus windows when the mouse pointer moves over them</source>
-        <translation>Передавать фокус окнам, когда курсор перемещается над ними</translation>
+        <translation>Fenster &amp;fokussieren, wenn sich der Mauszeiger über ihnen befindet</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1121"/>
         <source>&amp;Delay before focusing and raising windows:</source>
-        <translation>&amp;Задержка перед передачей курсора и поднятием окна:</translation>
+        <translation>&amp;Verzögerung vor dem Fokussieren und Hervorheben</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1122"/>
         <source>Move focus under the mouse when &amp;switching desktops</source>
-        <translation>Передавать фокус под курсор при &amp;переключении рабочих столов</translation>
+        <translation>Beim &amp;Wechsel von Arbeitsflächen Fokus unter den Mauszeiger bringen</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1123"/>
         <source>Move focus &amp;under the mouse when the mouse is not moving</source>
-        <translation>Передавать фокус  &amp;под курсор, когда мышь не двигается</translation>
+        <translation>Fokus &amp;unter die Maus bringen, wenn diese nicht bewegt wird</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1124"/>
         <source>&amp;Raise windows when the mouse pointer moves over them</source>
-        <translation>&amp;Поднимать окна, когда курсор двигается по ним</translation>
+        <translation>Fenster &amp;hervorheben, wenn sich der Mauszeiger darüber befindet</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1125"/>
         <source>Titlebar</source>
-        <translation>Заголовок окна</translation>
+        <translation>Fenstertitel</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1126"/>
         <source>Double click on the &amp;titlebar:</source>
-        <translation>Двойной клик на &amp;заголовке окна:</translation>
+        <translation>Doppelklick auf den Fenster&amp;titel</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1129"/>
         <source>Maximizes the window</source>
-        <translation>Разворачивает окно</translation>
+        <translation>Maximiert das Fenster</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1130"/>
         <source>Shades the window</source>
-        <translation>Сворачивает окно в заголовок</translation>
+        <translation>Rollt das Fenster ein</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1132"/>
         <source>Double click ti&amp;me:</source>
-        <translation>&amp;Время двойного клика:</translation>
+        <translation>&amp;Intervall für Doppelklick</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1133"/>
         <source>&amp;Show a notification when switching desktops</source>
-        <translation>&amp;Показывать уведомление при переключении рабочих столов</translation>
+        <translation>Benachrichtigung beim Arbeitsflächen&amp;wechsel anzeigen</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1134"/>
         <source>&amp;Amount of time to show the notification for:</source>
-        <translation>&amp;Время, на протяжении которого показывается уведомление:</translation>
+        <translation>&amp;Dauer, für die die Benachrichtigung angezeigt wird</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1135"/>
         <source>&amp;Number of desktops: </source>
-        <translation>&amp;Количество рабочих столов: </translation>
+        <translation>An&amp;zahl an Arbeitsflächen</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1136"/>
         <source>&amp;Desktop names:</source>
-        <translation>Названия &amp;рабочих столов:</translation>
+        <translation>&amp;Bezeichnungen der Arbeitsflächen</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1137"/>
         <source>Desktop Margins</source>
-        <translation>Границы рабочего стола</translation>
+        <translation>Arbeitsflächenränder</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1138"/>
         <source>Desktop margins are reserved areas on the edge of your screen.  New windows will not be placed within a margin, and maximized windows will not cover them.</source>
-        <translation>Границы рабочего стола - это зарезервированные зоны по вашего экрана. Новые окна не будут помещены в рамках границ, и развёрнутые окна не перекроют их.</translation>
+        <translation>Arbeitsflächenränder sind reservierte Bereiche am Rand des Bildschirms. Neue Fenster werden dort nicht platziert und maximierte Fenster überdecken diese Bereiche nicht.</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1139"/>
         <source>Left:</source>
-        <translation>Слева:</translation>
+        <translation>Links</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1140"/>
@@ -431,172 +431,184 @@ D: На все рабочие столы</translation>
         <location filename="../../build/src/ui_obconf.h" line="1144"/>
         <location filename="../../build/src/ui_obconf.h" line="1146"/>
         <source>px</source>
-        <translation>пикс</translation>
+        <translation>Pixel (px)</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1141"/>
         <source>Top:</source>
-        <translation>Сверху:</translation>
+        <translation>Oben</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1143"/>
         <source>Right:</source>
-        <translation>Справа:</translation>
+        <translation>Rechts</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1145"/>
         <source>Bottom:</source>
-        <translation>Снизу:</translation>
+        <translation>Unten</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1147"/>
         <source>The dock is a special container for &quot;dockapps&quot;, or dock applications.  It is not visible on screen until a dockapp is run.  Dockapps can be used to show things like a clock, or to provide you with a system tray.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das "dock" ist ein graphisches Objekt zum Vorhalten sogenannter dock-Anwendungen ("dockapps"), die z. B. eine Uhr oder Benachrichtigungen anzeigen können.
+Das dock wird erst nach dem Starten von dockapps sichtbar.</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1148"/>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Position</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1149"/>
         <source>&amp;Position:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Position:</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1152"/>
         <source>Top Left</source>
-        <translation type="unfinished"></translation>
+        <translation>oben links</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1153"/>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>oben zentriert</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1154"/>
         <source>Top Right</source>
-        <translation type="unfinished"></translation>
+        <translation>oben rechts</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1155"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>mitte (vertikal) links</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1156"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>mitte (vertikal) rechts</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1157"/>
         <source>Bottom Left</source>
-        <translation type="unfinished"></translation>
+        <translation>unten rechts</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1158"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>unten zentriert</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1159"/>
         <source>Bottom Right</source>
-        <translation type="unfinished"></translation>
+        <translation>unten rechts</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1160"/>
         <source>Floating</source>
-        <translation type="unfinished"></translation>
+        <translation>manuell festgelegte Position</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1162"/>
         <source>&amp;Floating position:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;manuell festgelegte Position</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1163"/>
         <source>x</source>
-        <translation type="unfinished"></translation>
+        <translation>x</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1164"/>
         <source>Allow &amp;windows to be placed within the dock&apos;s area</source>
-        <translation type="unfinished"></translation>
+        <translation>Positionieren von &amp;Fenstern über dem dock erlauben</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1165"/>
         <source>&amp;Orientation: </source>
-        <translation type="unfinished"></translation>
+        <translation>Ausrichtung</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1168"/>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>vertikal</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1169"/>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>horizontal</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1171"/>
         <source>Stacking</source>
-        <translation type="unfinished"></translation>
+        <translation>Ebenen</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1172"/>
         <source>Keep dock &amp;above other windows</source>
-        <translation type="unfinished"></translation>
+        <translation>immer im &amp;Vordergrund</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1173"/>
         <source>A&amp;llow dock to be both above and below windows</source>
-        <translation type="unfinished"></translation>
+        <translation>analog &amp;regulären Fenstern (Vorder- und Hintergrund möglich)</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1174"/>
         <source>Keep dock &amp;below other windows</source>
-        <translation type="unfinished"></translation>
+        <translation>immer im &amp;Hintergrund</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1175"/>
         <source>Hiding</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausblenden</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1176"/>
         <source>&amp;Delay before hiding:</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzögerung vor dem &amp;Ausblenden</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1177"/>
         <source>Delay before &amp;showing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzögerung vor dem &amp;Einblenden</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1178"/>
         <source>&amp;Hide off screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausblenden a&amp;ktivieren</translation>
     </message>
     <message>
         <location filename="../../build/src/ui_obconf.h" line="1179"/>
         <source>About</source>
-        <translation>О программе</translation>
+        <translation>&amp;Über ObConf-Qt</translation>
     </message>
 </context>
 <context>
     <name>Obconf::MainDialog</name>
     <message>
+        <location filename="../theme.cpp" line="150"/>
+        <location filename="../theme.cpp" line="160"/>
+        <source>Choose an Openbox theme</source>
+        <translation>Auswahl des Openbox Themas</translation>
+    </message>
+    <message>
         <location filename="../desktops.cpp" line="65"/>
         <location filename="../desktops.cpp" line="87"/>
         <location filename="../desktops.cpp" line="99"/>
         <source>(Unnamed desktop)</source>
-        <translation>(Неназванный рабочий стол)</translation>
+        <translation>(Unbenannte Arbeitsfläche)</translation>
+    </message>
+    <message>
+        <location filename="../mouse.cpp" line="57"/>
+        <source>Custom actions</source>
+        <translation>Benutzerdefinierte Aktionen</translation>
     </message>
     <message>
         <location filename="../maindialog.cpp" line="76"/>
         <source>About ObConf-Qt</source>
-        <translation>О ObConf-Qt</translation>
+        <translation>Über ObConf-Qt</translation>
     </message>
     <message>
         <location filename="../maindialog.cpp" line="77"/>
@@ -611,7 +623,17 @@ The program is based on ObConf developed by the following developers.
 * Dana Jansens &lt;danakj@orodu.net&gt;
 * Tim Riley &lt;tr@slackzone.org&gt;
 * Javeed Shaikh &lt;syscrash2k@gmail.com&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>graphische Benutzeroberfläche zur Konfiguration des Fenstermanagers Openbox
+
+Copyright (c) 2014-2015
+
+Autor:
+* Hong Jen Yee (PCMan) &lt;pcman.tw@gmail.com&gt;
+
+Das Programm basiert auf ObConf, entwickelt von
+* Dana Jansens &lt;danakj@orodu.net&gt;
+* Tim Riley &lt;tr@slackzone.org&gt;
+* Javeed Shaikh &lt;syscrash2k@gmail.com&gt;</translation>
     </message>
     <message>
         <source>A preferences manager for Openbox
@@ -623,26 +645,15 @@ Authors:
 * Dana Jansens &lt;danakj@orodu.net&gt;
 * Tim Riley &lt;tr@slackzone.org&gt;
 * Javeed Shaikh &lt;syscrash2k@gmail.com&gt;</source>
-        <translation type="vanished">Диспетчер настроек для Openbox
+        <translation type="vanished">graphische Benutzeroberfläche zur Konfiguration des Fenstermanagers Openbox
 
 Copyright (c) 2003-2013
 
-Авторы:
+Autoren:
 * Hong Jen Yee (PCMan) &lt;pcman.tw@gmail.com&gt;
 * Dana Jansens &lt;danakj@orodu.net&gt;
 * Tim Riley &lt;tr@slackzone.org&gt;
 * Javeed Shaikh &lt;syscrash2k@gmail.com&gt;</translation>
-    </message>
-    <message>
-        <location filename="../mouse.cpp" line="57"/>
-        <source>Custom actions</source>
-        <translation>Индивидуальные действия</translation>
-    </message>
-    <message>
-        <location filename="../theme.cpp" line="150"/>
-        <location filename="../theme.cpp" line="160"/>
-        <source>Choose an Openbox theme</source>
-        <translation>Выбрать тему для Openbox</translation>
     </message>
 </context>
 <context>
@@ -650,42 +661,42 @@ Copyright (c) 2003-2013
     <message>
         <location filename="../archive.cpp" line="26"/>
         <source>&quot;%1&quot; was installed to %1</source>
-        <translation>&quot;%1&quot; была установлена в %1</translation>
+        <translation>&quot;%1&quot; wurde nach %1 installiert</translation>
     </message>
     <message>
         <location filename="../archive.cpp" line="53"/>
         <source>&quot;%1&quot; was successfully created</source>
-        <translation>&quot;%1&quot; была успешно создана</translation>
+        <translation>&quot;%1&quot; wurde erfolgreich erstellt</translation>
     </message>
     <message>
         <location filename="../archive.cpp" line="89"/>
         <source>Unable to create the theme archive &quot;%1&quot;.
 The following errors were reported:
 %2</source>
-        <translation>Не удалось создать архив с темой &quot;%1&quot;.
-Было сообщено о следующих ошибках:
-%2</translation>
+        <translation>Erstellung des Themenarchivs &quot;%1&quot; ist fehlgeschlagen.
+        Die folgenden Fehlermeldungen wurden mitgeteilt:
+        %2</translation>
     </message>
     <message>
         <location filename="../archive.cpp" line="95"/>
         <location filename="../archive.cpp" line="178"/>
         <source>Unable to run the &quot;tar&quot; command: %1</source>
-        <translation>Не удалось запустить команду &quot;tar&quot;: %1</translation>
+        <translation>&quot;tar&quot; Befehl %1 kann nicht ausgeführt werden</translation>
     </message>
     <message>
         <location filename="../archive.cpp" line="115"/>
         <source>Unable to create directory &quot;%1&quot;: %2</source>
-        <translation>Не удалось создать папку &quot;%1&quot;: %2</translation>
+        <translation>Verzeichnis &quot;%1&quot; kann nicht erstellt werden: %2</translation>
     </message>
     <message>
         <location filename="../archive.cpp" line="138"/>
         <source>&quot;%1&quot; does not appear to be a valid Openbox theme directory</source>
-        <translation>&quot;%1&quot; не является правильной папкой тем Openbox</translation>
+        <translation>&quot;%1&quot; scheint kein korrektes Themenverzeichnis von Openbox zu sein</translation>
     </message>
     <message>
         <location filename="../archive.cpp" line="148"/>
         <source>Unable to move to directory &quot;%1&quot;: %2</source>
-        <translation>Невозможно переместить в папку &quot;%1&quot;: %2</translation>
+        <translation>Verzeichnis &quot;%1&quot; kann nicht verschoben werden: %2</translation>
     </message>
     <message>
         <location filename="../archive.cpp" line="185"/>
@@ -693,15 +704,15 @@ The following errors were reported:
 Please ensure that &quot;%2&quot; is writable and that the file is a valid Openbox theme archive.
 The following errors were reported:
 %3</source>
-        <translation>Невозможно распаковать файл &quot;%1&quot;.
-Убедитесь в том, что &quot;%2&quot; записываемый и в том, что этот файл является корректным архивом темы Openbox.
-Было сообщено о следующих ошибках:
-%3</translation>
+        <translation>Datei &quot;%1&quot; kann nicht entpackt werden.
+        Bitte sicherstellen, dass &quot;%2&quot; beschrieben werden kann und die Datei ein korrektes Archiv mit einem Openbox Thema ist.
+        Folgende Fehlermeldungen wurden mitgeteilt:
+        %3</translation>
     </message>
     <message>
         <location filename="../obconf-qt.cpp" line="53"/>
         <source>ObConf Error</source>
-        <translation>Ошибка ObConf</translation>
+        <translation>ObConf-Qt Fehler</translation>
     </message>
     <message>
         <location filename="../obconf-qt.cpp" line="58"/>
@@ -720,9 +731,12 @@ Copyright (c) 2003        Tim Riley
 Copyright (c) 2007        Javeed Shaikh
 Copyright (c) 2013        Hong Jen Yee (PCMan)
 
-У этой программы нет АБСОЛЮТНО НИКАКОЙ ГАРАНТИИ.
-Это свободное ПО и вы можете распространять его
-под определёнными условиями. Смотрите файл COPYING для деталей.
+Dieses Programm wird unter Ausschluss jeglicher Garantie zur Verfügung
+gestellt.
+Es handelt sich um freie Software,die unter Beachtung bestimmter
+Voraussetzungen gerne weitergegeben werden darf, Näheres enthält die
+Datei COPYING.
+
 </translation>
     </message>
     <message>
@@ -736,55 +750,67 @@ Options:
   --archive THEME       Create a theme archive from the given theme directory
   --config-file FILE    Specify the path to the config file to use
 </source>
-        <translation>Синтаксис: obconf [опции] [ARCHIVE.obt]
+        <translation>Übersicht: obconf [Optionen] [ARCHIVE.obt]
 
-Опции:
-  --help                оказать эту справку и выйти
-  --version             Показать версию и выйти
-  --install ARCHIVE.obt Установить тему из указанного архива и выбрать её
-  --archive THEME       Создать архив с темой из указаннойпапки с темой
-  --config-file FILE    Выбрать путь к используемому файлу настроек</translation>
+Optionen:
+  --help                diesen Hilfetext ausgeben und Programm beenden
+  --version             Version ausgeben und Programm beenden
+  --install ARCHIVE.obt Thema aus angegebenem Archiv extrahieren und verwenden
+  --archive THEMA       Archiv mit dem im genannten Verzeichnis befindlichen Thema erstellen
+  --config-file DATEI   zu verwendende Konfigurationsdatei explizit angeben
+  </translation>
     </message>
     <message>
         <location filename="../obconf-qt.cpp" line="97"/>
         <source>--install requires an argument
 </source>
-        <translation>--install требует аргумент
-</translation>
+        <translation>--install benötigt ein Argument</translation>
     </message>
     <message>
         <location filename="../obconf-qt.cpp" line="103"/>
         <source>--archive requires an argument
 </source>
-        <translation>--archive требует аргумент
-</translation>
+        <translation>--archive benötigt ein Argument</translation>
     </message>
     <message>
         <location filename="../obconf-qt.cpp" line="109"/>
         <source>--config-file requires an argument
 </source>
-        <translation>--config-file требует аргумент
-</translation>
-    </message>
-    <message>
-        <location filename="../obconf-qt.cpp" line="221"/>
-        <location filename="../obconf-qt.cpp" line="237"/>
-        <source>Error</source>
-        <translation>Ошибка</translation>
-    </message>
-    <message>
-        <location filename="../obconf-qt.cpp" line="222"/>
-        <source>Failed to load an rc.xml. You have probably failed to install Openbox properly.</source>
-        <translation>Не удалось загрузить rc.xml. Openbox, наверное, не установлен правильно.</translation>
+        <translation>--config-file benötigt ein Argument</translation>
     </message>
     <message>
         <location filename="../obconf-qt.cpp" line="235"/>
         <source>Error while parsing the Openbox configuration file.  Your configuration file is not valid XML.
 
 Message: %1</source>
-        <translation>Ошибка при разборе файла конфигурации Openbox. Ваш конфигурационный файл неправильный XML.
+        <translation>Fehler bei der Auswertung der Konfigurationsdatei von Openbox. Die Konfigurationsdatei ist nicht in korrekter XML verfasst.</translation>
+    </message>
+    <message>
+        <source>--archive requires an argument</source>
+        <translation type="vanished">--archive benötigt ein Argument</translation>
+    </message>
+    <message>
+        <source>--config-file requires an argument</source>
+        <translation type="vanished">--config-file benötigt ein Argument</translation>
+    </message>
+    <message>
+        <location filename="../obconf-qt.cpp" line="221"/>
+        <location filename="../obconf-qt.cpp" line="237"/>
+        <source>Error</source>
+        <translation>Fehler</translation>
+    </message>
+    <message>
+        <location filename="../obconf-qt.cpp" line="222"/>
+        <source>Failed to load an rc.xml. You have probably failed to install Openbox properly.</source>
+        <translation>Datei rc.xml konnte nicht geladen werden. Möglicher Weise wurde Openbox nicht korrekt installiert.</translation>
+    </message>
+    <message>
+        <source>Error while parsing the Openbox configuration file.  Your configuration file is not valid XML.
 
-Сообщение: %1</translation>
+        Message: %1</source>
+        <translation type="vanished">Fehler bei der Verarbeitung der Konfigurationsdatei von Openbox. Die genannte Datei ist kein korrektes XML.
+        
+        Fehlermeldung: %1</translation>
     </message>
 </context>
 </TS>

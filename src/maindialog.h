@@ -141,17 +141,20 @@ private Q_SLOTS:
   void on_desktop_num_valueChanged(int newValue);
   void on_desktop_popup_toggled(bool checked);
   void on_desktop_popup_time_valueChanged(int newValue);
+  void on_desktop_names_itemChanged(QListWidgetItem * item);
 
   // docks
   void on_dock_float_x_valueChanged(int newValue);
   void on_dock_float_y_valueChanged(int newValue);
-  void on_dock_stacking_top_toggled(bool checked);
-  void on_dock_stacking_normal_toggled(bool checked);
-  void on_dock_stacking_bottom_toggled(bool checked);
+  void on_dock_stack_top_toggled(bool checked);
+  void on_dock_stack_normal_toggled(bool checked);
+  void on_dock_stack_bottom_toggled(bool checked);
   void on_dock_nostrut_toggled(bool checked);
   void on_dock_hide_toggled(bool checked);
   void on_dock_hide_delay_valueChanged(int newValue);
   void on_dock_show_delay_valueChanged(int newValue);
+  void on_dock_position_currentIndexChanged(int index);
+  void on_dock_direction_currentIndexChanged(int index);
 
 private:
   Ui::MainDialog ui;
