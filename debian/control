@@ -30,13 +30,3 @@ Description: Openbox configuration with a Qt interface
  obconf-qt is an utility to configure openbox with a Qt interface.
  .
  This package contain the application files.
-
-# ---- to be removed in 2016 ----
-
-Package: obconf-qt5
-Depends: obconf-qt, ${misc:Depends}
-Priority: extra
-Section: oldlibs
-Architecture: all
-Description: obconf-qt transitional package
- Empty package to facilitate upgrades, can be safely removed.
