@@ -9,8 +9,9 @@ obconf-qt (0.9.0+20150822-1) unstable; urgency=medium
   * cme fix dpkg-control
   * import new snapshot
   * tar-ignore obconf-qt.kdev4
+  * added upstream signing key and use it in watch file
 
- -- Alf Gaida <agaida@siduction.org>  Tue, 01 Sep 2015 00:13:40 +0200
+ -- Alf Gaida <agaida@siduction.org>  Tue, 01 Sep 2015 00:24:59 +0200
 
 obconf-qt (0.9.0+20150723-1) unstable; urgency=medium
 
