@@ -1,3 +1,17 @@
+obconf-qt (0.9.0+20150822-1) unstable; urgency=medium
+
+  [ ChangZhuo Chen (陳昌倬) ]
+  * Use -Wl,--as-needed to reduce dependencies
+  * Use hardening=+all
+
+  [ Alf Gaida ]
+  * remove not needed breaks and replaces
+  * cme fix dpkg-control
+  * import new snapshot
+  * tar-ignore obconf-qt.kdev4
+
+ -- Alf Gaida <agaida@siduction.org>  Tue, 01 Sep 2015 00:13:40 +0200
+
 obconf-qt (0.9.0+20150723-1) unstable; urgency=medium
 
   [ Alf Gaida ]
