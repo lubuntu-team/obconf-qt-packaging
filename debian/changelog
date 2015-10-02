@@ -8,7 +8,7 @@ obconf-qt (0.9.0+20150822-1) unstable; urgency=medium
   * Cherry-picked upstream version 0.9.0+20150822
   * Removed not needed breaks and replaces
   * Beautified control
-  * Tar-ignored obconf-qt.kdev4 
+  * Tar-ignored obconf-qt.kdev4
   * Added upstream signing key and use it in watch file
 
  -- Alf Gaida <agaida@siduction.org>  Thu, 24 Sep 2015 17:02:15 +0200
