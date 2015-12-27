@@ -1,3 +1,9 @@
+obconf-qt (0.9.0+20151227-1) unstable; urgency=medium
+
+  * Cherry-picked upstream version 0.9.0+20151227.
+
+ -- Alf Gaida <agaida@siduction.org>  Sun, 27 Dec 2015 01:16:24 +0100
+
 obconf-qt (0.9.0+20150822-1) unstable; urgency=medium
 
   [ ChangZhuo Chen (陳昌倬) ]
