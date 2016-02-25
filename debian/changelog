@@ -1,3 +1,13 @@
+obconf-qt (0.9.0+20151227-2) unstable; urgency=medium
+
+  * make build reproducible again (Closes: 815900), thanks to Eduard Sanou
+    for the bug and the patch, but i already fixed this upstream
+  * Bump Standards to 3.9.7
+  * Secure VCS-fields
+  * Fix years in copyright
+
+ -- Alf Gaida <agaida@siduction.org>  Thu, 25 Feb 2016 21:21:57 +0100
+
 obconf-qt (0.9.0+20151227-1) unstable; urgency=medium
 
   * Cherry-picked upstream version 0.9.0+20151227.
