@@ -1,3 +1,27 @@
+obconf-qt (0.10.96~25-gbc999b9-1) experimental; urgency=medium
+
+  * Cherry-picking  upstream version 0.10.96~25-gbc999b9. 
+  * Preparing the upcoming release, switch to experimental
+  * Added new build dependendies:
+    - gcc (>= 4:6)
+    - g++ (>= 4:6)
+    - libkf5windowsystem-dev,
+    - liblxqt0-dev (>= 0.10.96~),
+    - libqt5xdg-dev (>= 1.3.1~),
+  * Minimum versions added
+  * Bumped Standards to 3.9.8, no changes needed
+  * Fixed VCS fields, using plain /git/
+  * Added Recommends obconf-qt-l10n
+  * Used GPL-2+ for debian, no need to introduce a second license
+  * Fixed copyrights Format field to https
+  * Dropped patches, applied upstream
+  * Added translation control to rules
+  * Set CMAKE_BUILD_TYPE=RelWithDebInfo
+  * Exported LC_ALL=C.UTF-8, make builds reproducible
+  * Cleaned up source/options and .gitignore
+
+ -- Alf Gaida <agaida@siduction.org>  Tue, 19 Jul 2016 22:11:32 +0200
+
 obconf-qt (0.9.0+20151227-2) unstable; urgency=medium
 
   * make build reproducible again (Closes: 815900), thanks to Eduard Sanou
