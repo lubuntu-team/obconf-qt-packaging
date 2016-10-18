@@ -1,3 +1,27 @@
+obconf-qt (0.11.0-2) unstable; urgency=medium
+
+  * Cherry-picking upstream release 0.11.0.
+  * Synced debian/foo with experimental
+  * Bumped Standards to 3.9.8, no changes needed
+  * Bumped compat to 10
+  * Removed --parallel from rules, standard in compat 10 
+  * Bumped build dependency debhelper (>= 10)
+  * Bumped build dependency liblxqt-dev (>= 0.11.0)
+  * Bumped build dependency libqtxdg-dev (>= 2.0.0)
+  * Added build dependency libkf5windowsystem-dev
+  * Added build dependency libqt5svg5-dev
+  * Added Recommends obconf-qt-l10n
+  * Fixed VCS fields, using plain /git/
+  * Used GPL-2+ for debian, no need to introduce a second license
+  * Fixed copyrights Format field to https
+  * Dropped patches, applied upstream
+  * Added translation control to rules
+  * Set CMAKE_BUILD_TYPE=RelWithDebInfo
+  * Exported LC_ALL=C.UTF-8, make builds reproducible
+  * Cleaned up source/options and .gitignore
+
+ -- Alf Gaida <agaida@siduction.org>  Tue, 18 Oct 2016 20:08:08 +0200
+
 obconf-qt (0.9.0+20151227-2) unstable; urgency=medium
 
   * make build reproducible again (Closes: 815900), thanks to Eduard Sanou
