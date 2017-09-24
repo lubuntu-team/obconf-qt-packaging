@@ -1,3 +1,9 @@
+obconf-qt (0.11.1-3) UNRELEASED; urgency=medium
+
+  * New snapshot: 0.11.1-10-gcb20e7a
+
+ -- Alf Gaida <agaida@siduction.org>  Wed, 26 Jul 2017 00:13:47 +0200
+
 obconf-qt (0.11.1-2) unstable; urgency=medium
 
   * Removed build dependency liblxqt0-dev - only translations
