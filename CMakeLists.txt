@@ -23,7 +23,7 @@ else()
   find_package(Qt5Widgets REQUIRED)
   find_package(Qt5X11Extras REQUIRED)
   find_package(Qt5LinguistTools REQUIRED QUIET)
-  message(STATUS "Building with Qt${Qt5Core_VERSION_STRING}")
+  message(STATUS "Building with Qt${Qt5Core_VERSION}")
 endif()
 
 find_package(lxqt-build-tools ${LXQTBT_MINIMUM_VERSION} REQUIRED)
@@ -37,6 +37,16 @@ pkg_check_modules(OPENBOX REQUIRED
   obrender-3.5
   obt-3.5
 )
+
+if(NOT CMAKE_BUILD_TYPE)
+    set(CMAKE_BUILD_TYPE Release)
+endif()
+
+set(OBCONFQT_MAJOR_VERSION 0)
+set(OBCONFQT_MINOR_VERSION 12)
+set(OBCONFQT_PATCH_VERSION 0)
+set(OBCONFQT_VERSION ${OBCONFQT_MAJOR_VERSION}.${OBCONFQT_MINOR_VERSION}.${OBCONFQT_PATCH_VERSION})
+add_definitions("-DOBCONFQT_VERSION=\"${OBCONFQT_VERSION}\"")
 
 include(LXQtTranslateTs)
 include(LXQtTranslateDesktop)
