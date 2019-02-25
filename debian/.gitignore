@@ -1,8 +1,0 @@
-/*.debhelper
-/*.log
-/*.substvars
-/debhelper-build-stamp
-/files
-
-/obconf-qt/
-/obconf-qt5/

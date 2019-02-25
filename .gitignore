@@ -1,0 +1,7 @@
+/debian/*.debhelper
+/debian/*.log
+/debian/*.substvars
+/debian/debhelper-build-stamp
+/debian/files
+
+/debian/obconf-qt/
