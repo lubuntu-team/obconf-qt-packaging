@@ -1,8 +1,7 @@
 Source: obconf-qt
-Maintainer: LXQt Packaging Team <pkg-lxqt-devel@lists.alioth.debian.org>
-Uploaders: Alf Gaida <agaida@siduction.org>,
-           ChangZhuo Chen (陳昌倬) <czchen@debian.org>,
-           Andrew Lee (李健秋) <ajqlee@debian.org>
+Maintainer: Lubuntu Developers <lubuntu-devel@lists.ubuntu.com>
+XSBC-Original-Maintainer: LXQt Packaging Team <pkg-lxqt-devel@lists.alioth.debian.org>
+Uploaders: Simon Quigley <tsimonq2@ubuntu.com>
 Section: utils
 Priority: optional
 Build-Depends: debhelper-compat (= 12),
@@ -12,8 +11,10 @@ Build-Depends: debhelper-compat (= 12),
                lxqt-build-tools (>= 0.6.0~),
                openbox-dev
 Standards-Version: 4.3.0
-Vcs-Browser: https://salsa.debian.org/lxqt-team/obconf-qt
-Vcs-Git: https://salsa.debian.org/lxqt-team/obconf-qt.git
+Vcs-Browser: https://phab.lubuntu.me/source/obconf-qt/
+Vcs-Git: https://phab.lubuntu.me/source/obconf-qt.git
+XS-Debian-Vcs-Browser: https://salsa.debian.org/lxqt-team/obconf-qt
+XS-Debian-Vcs-Git: https://salsa.debian.org/lxqt-team/obconf-qt.git
 Homepage: https://github.com/lxqt/obconf-qt
 
 Package: obconf-qt
