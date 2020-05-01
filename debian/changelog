@@ -1,6 +1,7 @@
 obconf-qt (0.15.0-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release.
+    - Update LXQt build dependencies.
   * Update Standards-version to 4.5.0, no changes needed.
 
  -- Simon Quigley <tsimonq2@ubuntu.com>  Thu, 30 Apr 2020 23:51:10 -0500
