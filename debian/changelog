@@ -1,3 +1,28 @@
+obconf-qt (0.16.0-1ubuntu1) hirsute; urgency=medium
+
+  * New upstream version.
+  * Updated debhelper-compat requirement to 12.
+
+ -- Raman Sarda <theloudspeaker@ubuntu.com>  Sun, 21 Feb 2021 19:24:37 +0530
+
+obconf-qt (0.16.0-1) unstable; urgency=medium
+
+  [ Alf Gaida ]
+  * Switched to gbp
+  * Bumped Standards-Version to 4.4.0, no changes needed
+
+  [ Debian Janitor ]
+  * debian/copyright: use spaces rather than tabs to start continuation lines.
+  * Set upstream metadata fields: Repository, Repository-Browse.
+  * Remove obsolete field Name from debian/upstream/metadata (already present in
+    machine-readable debian/copyright).
+  * Update standards version to 4.5.0, no changes needed.
+
+  [ Andrew Lee (李健秋) ]
+  * New upstream release. (Closes: #978168)
+
+ -- Andrew Lee (李健秋) <ajqlee@debian.org>  Thu, 07 Jan 2021 20:01:08 +0800
+
 obconf-qt (0.15.0-0ubuntu1) groovy; urgency=medium
 
   * New upstream release.
@@ -179,3 +204,4 @@ obconf-qt (0.9.0+20150723-1) unstable; urgency=medium
   * Removing whitespaces at EOL and EOF.
 
  -- Andrew Lee (李健秋) <ajqlee@debian.org>  Fri, 14 Aug 2015 17:39:21 +0800
+

@@ -4,11 +4,11 @@ XSBC-Original-Maintainer: LXQt Packaging Team <pkg-lxqt-devel@lists.alioth.debia
 Uploaders: Simon Quigley <tsimonq2@ubuntu.com>
 Section: utils
 Priority: optional
-Build-Depends: debhelper-compat (= 12),
+Build-Depends: debhelper-compat (= 13),
                libkf5windowsystem-dev,
                libqt5svg5-dev,
                libqt5x11extras5-dev,
-               lxqt-build-tools (>= 0.7.0),
+               lxqt-build-tools (>= 0.8.0~),
                openbox-dev
 Standards-Version: 4.5.0
 Vcs-Browser: https://phab.lubuntu.me/source/obconf-qt/
