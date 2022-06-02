@@ -1,3 +1,9 @@
+obconf-qt (0.16.2-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream release.
+
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Thu, 02 Jun 2022 10:03:05 -0500
+
 obconf-qt (0.16.0-1ubuntu1) hirsute; urgency=medium
 
   * New upstream version.
