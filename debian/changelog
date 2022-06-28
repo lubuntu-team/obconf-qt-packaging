@@ -5,6 +5,7 @@ obconf-qt (0.16.2-0ubuntu1~ppa1) jammy; urgency=medium
   * Removed redundant Repository-Browser field from d/upstream/metadata.
   * Bump Standards-Version to 4.6.1, no changes necessary.
   * Removed obsolete "-Wl,--as-needed" linker flag.
+  * Updated manual page ignore line in debian/lintian-overrides.
 
  -- Aaron Rainbolt <arraybolt3@gmail.com>  Mon, 27 Jun 2022 22:37:22 -0500
 
