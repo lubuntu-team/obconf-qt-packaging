@@ -6,6 +6,7 @@ obconf-qt (0.16.2-0ubuntu1~ppa1) jammy; urgency=medium
   * Bump Standards-Version to 4.6.1, no changes necessary.
   * Removed obsolete "-Wl,--as-needed" linker flag.
   * Updated manual page ignore line in debian/lintian-overrides.
+  * Removed trailing newline from changelog.
 
  -- Aaron Rainbolt <arraybolt3@gmail.com>  Mon, 27 Jun 2022 22:37:22 -0500
 
@@ -223,4 +224,3 @@ obconf-qt (0.9.0+20150723-1) unstable; urgency=medium
   * Removing whitespaces at EOL and EOF.
 
  -- Andrew Lee (李健秋) <ajqlee@debian.org>  Fri, 14 Aug 2015 17:39:21 +0800
-
