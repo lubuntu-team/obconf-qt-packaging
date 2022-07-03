@@ -1,7 +1,9 @@
 obconf-qt (0.16.2-0ubuntu1~ppa1) jammy; urgency=medium
 
   * Backport to Jammy.
-  * Added Lubuntu Developers copyright.
+  * Overhauled copyright file.
+    - Added Lubuntu Developers copyright.
+    - Sorted through the source code and added a TON of missing entries.
   * Removed redundant Repository-Browser field from d/upstream/metadata.
   * Bump Standards-Version to 4.6.1, no changes necessary.
   * Removed obsolete "-Wl,--as-needed" linker flag.
