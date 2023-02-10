@@ -6,6 +6,7 @@ obconf-qt (0.16.2-2ubuntu1) lunar; urgency=medium
   * Added 'Rules-Requires-Root: no' to debian/control.
   * Changed binary-without-manpage to no-manual-page in lintian-overrides.
   * Updated debian/watch file to work with GitHub again.
+  * Removed Repository-Browser field from debian/upstream/metadata.
 
  -- Aaron Rainbolt <arraybolt3@ubuntu.com>  Thu, 09 Feb 2023 23:08:44 -0600
 
