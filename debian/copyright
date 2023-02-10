@@ -3,57 +3,12 @@ Upstream-Name: obconf-qt
 Source: https://github.com/lxqt/obconf-qt
 
 Files: *
-Copyright: 2012-2022 LXQt team
-License: GPL-2.0+
-
-Files: src/appearance.cpp
-       src/desktops.cpp
-       src/dock.cpp
-       src/maindialog.cpp
-       src/margins.cpp
-       src/mouse.cpp
-       src/moveresize.cpp
-       src/obconf-qt.cpp
-       src/windows.cpp
-Copyright: 2013      Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
-           2003-2008 Dana Jansens
-           2003      Tim Riley
-License: GPL-2.0+
-
-Files: src/fontbutton.cpp
-       src/fontbutton.h
-Copyright: 2013      Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
-License: GPL-2.0+
-
-Files: src/maindialog.h
-Copyright: 2013      Unknown, possibly Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
-License: GPL-2.0+
-
-Files: src/obconf-qt.h
-       src/tree.cpp
-       src/tree.h
-Copyright: 2003-2007 Dana Jansens
-License: GPL-2.0+
-
-Files: src/preview.c
-Copyright: 2007      Javeed Shaikh
-           2007      Dana Jansens
-License: GPL-2.0+
-
-Files: src/preview.h
-Copyright: 2007      Javeed Shaikh
-License: GPL-2.0+
-
-Files: src/theme.cpp
-Copyright: 2003-2007 Dana Jansens
-           2003      Tim Riley
+Copyright: 2012-2018 LXQt team
 License: GPL-2.0+
 
 Files: debian/*
 Copyright: 2013-2018 Alf Gaida <agaida@siduction.org>
            2015	     Andrew Lee (李健秋) <ajqlee@debian.org>
-           2022      Lubuntu Developers <lubuntu-devel@lists.ubuntu.com>
-           2023      ChangZhuo Chen (陳昌倬) <czchen@debian.org>
 License: GPL-2.0+
 
 License: GPL-2.0+

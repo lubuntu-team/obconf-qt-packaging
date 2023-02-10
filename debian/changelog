@@ -1,26 +1,23 @@
-obconf-qt (0.16.2-2) unstable; urgency=medium
+obconf-qt (0.16.2-2ubuntu1) lunar; urgency=medium
 
-  * Merge to unstable.
-  * Update d/watch for GitHub.
-  * Bump Standards-Version to 4.6.2.
+  * Revert sync from Debian.
 
- -- ChangZhuo Chen (陳昌倬) <czchen@debian.org>  Thu, 05 Jan 2023 13:12:24 +0800
+ -- Aaron Rainbolt <arraybolt3@ubuntu.com>  Thu, 09 Feb 2023 23:08:44 -0600
 
-obconf-qt (0.16.2-1) experimental; urgency=medium
+obconf-qt (0.16.2-0ubuntu1) kinetic; urgency=medium
 
-  * New upstream release 0.16.2.
-  * Removed obsolete debian/compat file.
-  * Switched to GBP.
-  * Upstreamed non-Ubuntu-specific packaging changes from Ubuntu, modifying
-    the following files:
-    - control
-    - copyright
-    - lintian-overrides
-    - *.install
-    - rules
-    - upstream/*
+  * New upstream release.
+  * Bump build dependencies.
+  * Drop old Breaks/Replaces, we're past the LTS.
 
- -- Aaron Rainbolt <arraybolt3@gmail.com>  Sun, 10 Jul 2022 02:53:45 -0500
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Thu, 02 Jun 2022 10:06:15 -0500
+
+obconf-qt (0.16.0-1ubuntu1) hirsute; urgency=medium
+
+  * New upstream version.
+  * Updated debhelper-compat requirement to 12.
+
+ -- Raman Sarda <theloudspeaker@ubuntu.com>  Sun, 21 Feb 2021 19:24:37 +0530
 
 obconf-qt (0.16.0-1) unstable; urgency=medium
 
@@ -39,6 +36,22 @@ obconf-qt (0.16.0-1) unstable; urgency=medium
   * New upstream release. (Closes: #978168)
 
  -- Andrew Lee (李健秋) <ajqlee@debian.org>  Thu, 07 Jan 2021 20:01:08 +0800
+
+obconf-qt (0.15.0-0ubuntu1) groovy; urgency=medium
+
+  * New upstream release.
+    - Update upstream signing key.
+    - Update LXQt build dependencies.
+  * Update Standards-version to 4.5.0, no changes needed.
+  * Run wrap-and-sort.
+
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Thu, 04 Jun 2020 14:38:45 -0500
+
+obconf-qt (0.14.1-1ubuntu1) disco; urgency=medium
+
+  * Lubuntuify the package.
+
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Sat, 09 Mar 2019 09:56:22 -0600
 
 obconf-qt (0.14.1-1) unstable; urgency=medium
 
@@ -205,3 +218,4 @@ obconf-qt (0.9.0+20150723-1) unstable; urgency=medium
   * Removing whitespaces at EOL and EOF.
 
  -- Andrew Lee (李健秋) <ajqlee@debian.org>  Fri, 14 Aug 2015 17:39:21 +0800
+
