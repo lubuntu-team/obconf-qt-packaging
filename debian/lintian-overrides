@@ -1,2 +1,2 @@
 # there will be no manpage in a foreseable future
-obconf-qt: binary-without-manpage usr/bin/obconf-qt
+obconf-qt: no-manual-page [usr/bin/obconf-qt]
