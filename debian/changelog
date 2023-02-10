@@ -8,6 +8,7 @@ obconf-qt (0.16.2-2ubuntu1) lunar; urgency=medium
   * Updated debian/watch file to work with GitHub again.
   * Removed Repository-Browser field from debian/upstream/metadata.
   * Removed trailing whitespace from changelog.
+  * Removed obsolete '-Wl,--as-needed' linker flag.
 
  -- Aaron Rainbolt <arraybolt3@ubuntu.com>  Thu, 09 Feb 2023 23:08:44 -0600
 
