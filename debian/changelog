@@ -7,6 +7,7 @@ obconf-qt (0.16.2-2ubuntu1) lunar; urgency=medium
   * Changed binary-without-manpage to no-manual-page in lintian-overrides.
   * Updated debian/watch file to work with GitHub again.
   * Removed Repository-Browser field from debian/upstream/metadata.
+  * Removed trailing whitespace from changelog.
 
  -- Aaron Rainbolt <arraybolt3@ubuntu.com>  Thu, 09 Feb 2023 23:08:44 -0600
 
@@ -224,4 +225,3 @@ obconf-qt (0.9.0+20150723-1) unstable; urgency=medium
   * Removing whitespaces at EOL and EOF.
 
  -- Andrew Lee (李健秋) <ajqlee@debian.org>  Fri, 14 Aug 2015 17:39:21 +0800
-
