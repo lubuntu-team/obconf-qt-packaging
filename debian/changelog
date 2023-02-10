@@ -3,6 +3,7 @@ obconf-qt (0.16.2-2ubuntu1) lunar; urgency=medium
   * Revert sync from Debian.
   * Overhauled copyright file.
   * Bumped Standards-Version to 4.6.2, no changes necessary.
+  * Added 'Rules-Requires-Root: no' to debian/control.
 
  -- Aaron Rainbolt <arraybolt3@ubuntu.com>  Thu, 09 Feb 2023 23:08:44 -0600
 

@@ -16,6 +16,7 @@ Vcs-Git: https://phab.lubuntu.me/source/obconf-qt.git
 XS-Debian-Vcs-Browser: https://salsa.debian.org/lxqt-team/obconf-qt
 XS-Debian-Vcs-Git: https://salsa.debian.org/lxqt-team/obconf-qt.git
 Homepage: https://github.com/lxqt/obconf-qt
+Rules-Requires-Root: no
 
 Package: obconf-qt
 Architecture: any
