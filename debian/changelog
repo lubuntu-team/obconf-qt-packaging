@@ -1,4 +1,4 @@
-obconf-qt (0.16.2-2ubuntu1) lunar; urgency=medium
+obconf-qt (0.16.2-2ubuntu2) lunar; urgency=medium
 
   * Revert sync from Debian.
   * Overhauled copyright file.
@@ -10,7 +10,7 @@ obconf-qt (0.16.2-2ubuntu1) lunar; urgency=medium
   * Removed trailing whitespace from changelog.
   * Removed obsolete '-Wl,--as-needed' linker flag.
 
- -- Aaron Rainbolt <arraybolt3@ubuntu.com>  Thu, 09 Feb 2023 23:08:44 -0600
+ -- Aaron Rainbolt <arraybolt3@ubuntu.com>  Sun, 12 Feb 2023 17:30:26 -0600
 
 obconf-qt (0.16.2-0ubuntu1) kinetic; urgency=medium
 
