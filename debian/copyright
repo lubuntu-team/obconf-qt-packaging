@@ -3,11 +3,31 @@ Upstream-Name: obconf-qt
 Source: https://github.com/lxqt/obconf-qt
 
 Files: *
-Copyright: 2012-2022 LXQt team
-           2013      Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
-           2003-2008 Dana Jansens
+Copyright: 2012-2023 LXQt team
+License: GPL-2.0
+
+Files: src/appearance.cpp
+       src/desktops.cpp
+       src/dock.cpp
+       src/fontbutton.cpp
+       src/fontbutton.h
+       src/maindialog.cpp
+       src/maindialog.h
+       src/margins.cpp
+       src/mouse.cpp
+       src/moveresize.cpp
+       src/obconf-qt.cpp
+       src/obconf-qt.h
+       src/preview.c
+       src/preview.h
+       src/theme.cpp
+       src/tree.cpp
+       src/tree.h
+       src/windows.cpp
+Copyright: 2003      Tim Riley
            2007      Javeed Shaikh
-           2003      Tim Riley
+           2003-2008 Dana Jansens
+           2013      Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
 License: GPL-2.0+
 
 Files: debian/*
@@ -15,6 +35,19 @@ Copyright: 2013-2018 Alf Gaida <agaida@siduction.org>
            2015	     Andrew Lee (李健秋) <ajqlee@debian.org>
            2023      Lubuntu Developers <lubuntu-devel@lists.ubuntu.com>
 License: GPL-2.0+
+
+License: GPL-2.0
+ This program is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; version 2 of the License.
+ .
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ On Debian systems, the complete text of the GNU General Public License
+ version 2 can be found in "/usr/share/common-licenses/GPL-2".
 
 License: GPL-2.0+
  This program is free software; you can redistribute it and/or modify

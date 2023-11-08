@@ -1,6 +1,7 @@
 obconf-qt (0.16.3-0ubuntu1) noble; urgency=medium
 
   * New upstream release.
+  * Overhauled copyright file.
 
  -- Aaron Rainbolt <arraybolt3@gmail.com>  Wed, 08 Nov 2023 17:35:38 -0600
 
