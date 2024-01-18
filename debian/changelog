@@ -1,3 +1,9 @@
+obconf-qt (0.16.4-0ubuntu1) noble; urgency=medium
+
+  * New upstream release.
+
+ -- Aaron Rainbolt <arraybolt3@ubuntu.com>  Thu, 18 Jan 2024 16:41:20 +0000
+
 obconf-qt (0.16.3-0ubuntu1) noble; urgency=medium
 
   * New upstream release.
