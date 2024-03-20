@@ -1,3 +1,10 @@
+obconf-qt (0.16.0-1ubuntu2) jammy; urgency=medium
+
+  * Fix center window on opening not working.
+  * Update watch file.
+
+ -- Walter Lapchynski <wxl@ubuntu.com>  Wed, 20 Mar 2024 23:27:52 +0000
+
 obconf-qt (0.16.0-1ubuntu1) hirsute; urgency=medium
 
   * New upstream version.
