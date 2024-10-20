@@ -1,8 +1,9 @@
-obconf-qt (0.16.4+git20241012-0ubuntu1) UNRELEASED; urgency=medium
+obconf-qt (0.16.4+git20241012-0ubuntu1) plucky; urgency=medium
 
   * New upstream Git snapshot, for the Qt 6 port.
+  * Update Standards-Version to 4.7.0, no changes needed.
 
- -- Simon Quigley <tsimonq2@ubuntu.com>  Sun, 20 Oct 2024 16:56:09 -0500
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Sun, 20 Oct 2024 17:07:01 -0500
 
 obconf-qt (0.16.4-0ubuntu6) noble; urgency=high
 
