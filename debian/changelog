@@ -1,3 +1,9 @@
+obconf-qt (0.16.4+git20241012-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream Git snapshot, for the Qt 6 port.
+
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Sun, 20 Oct 2024 16:56:09 -0500
+
 obconf-qt (0.16.4-0ubuntu6) noble; urgency=high
 
   * No change rebuild against libqt5core5t64, libqt5gui5t64,
