@@ -1,0 +1,3 @@
+# This is expected
+obconf-qt: desktop-entry-lacks-keywords-entry [usr/share/applications/*.desktop]
+obconf-qt: no-manual-page [usr/bin/*]
