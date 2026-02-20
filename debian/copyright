@@ -3,7 +3,7 @@ Upstream-Name: obconf-qt
 Source: https://github.com/lxqt/obconf-qt
 
 Files: *
-Copyright: 2012-2024 LXQt team
+Copyright: 2012-2025 LXQt team
 License: GPL-2.0
 
 Files: src/appearance.cpp
@@ -35,6 +35,7 @@ Copyright: 2013-2018 Alf Gaida <agaida@siduction.org>
            2015	     Andrew Lee (李健秋) <ajqlee@debian.org>
            2023-2025 Lubuntu Developers <lubuntu-devel@lists.ubuntu.com>
            2025      ChangZhuo Chen (陳昌倬) <czchen@debian.org>
+           2026      Aaron Rainbolt <arraybolt3@ubuntu.com>
 License: GPL-2.0+
 
 License: GPL-2.0
