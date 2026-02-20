@@ -1,3 +1,9 @@
+obconf-qt (0.16.6-0ubuntu1) resolute; urgency=medium
+
+  * New upstream release.
+
+ -- Aaron Rainbolt <arraybolt3@ubuntu.com>  Fri, 20 Feb 2026 11:53:39 -0500
+
 obconf-qt (0.16.5-0ubuntu3) plucky; urgency=medium
 
   * Update Standards-Version to 4.7.1, no changes needed.
