@@ -8,7 +8,7 @@ Build-Depends: debhelper-compat (= 13),
                libkf6windowsystem-dev,
                lxqt-build-tools (>= 2.1.0),
                openbox-dev
-Standards-Version: 4.7.1
+Standards-Version: 4.7.3
 Vcs-Browser: https://git.lubuntu.me/Lubuntu/obconf-qt-packaging
 Vcs-Git: https://git.lubuntu.me/Lubuntu/obconf-qt-packaging.git
 Debian-Vcs-Browser: https://salsa.debian.org/lxqt-team/obconf-qt
