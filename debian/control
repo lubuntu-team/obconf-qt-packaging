@@ -6,7 +6,7 @@ Section: utils
 Priority: optional
 Build-Depends: debhelper-compat (= 13),
                libkf6windowsystem-dev,
-               lxqt-build-tools (>= 2.1.0),
+               lxqt-build-tools (>= 2.3.0),
                openbox-dev
 Standards-Version: 4.7.3
 Vcs-Browser: https://git.lubuntu.me/Lubuntu/obconf-qt-packaging
